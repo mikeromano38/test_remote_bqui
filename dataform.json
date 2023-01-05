@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "romanomike",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "daui-storage",
+  "defaultLocation": "US"
+}
+    

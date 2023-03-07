@@ -2,3 +2,4 @@ select 12, 13, 14, 42;
 select 18, 19, 20;
 select 56, 18, 99;
 SELECT 79, 34 ;
+SELECT * FROM `gojongo-sandbox.ads.aTable`;
